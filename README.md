@@ -1,2 +1,2 @@
 # Logic-puzzle
-This is a logic puzzle game.
+This is a one playere logic puzzle game.
